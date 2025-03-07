@@ -3,6 +3,7 @@ include <stdio.h>
 int main();
 {
 printf("Dobor dosli");
-return 0;
-
+printf("Dobor dosli");
+printf("Dobor dosli");
+  
 }
